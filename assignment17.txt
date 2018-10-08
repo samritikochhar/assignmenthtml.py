@@ -1,0 +1,56 @@
+<html>
+<head><title> Big Three </title><head>
+<style>
+ul.a{
+list-style-type : sphere
+}
+
+ol.b{
+list-style-type : 1
+}
+ul.c{
+list-style-type : sphere
+}
+</style>
+<body>
+<h1>My Favorite Recipes</h1>
+<ul class="a">
+<li><a href="#1">Soup</a></li>
+<li><a href="#2">Salad</a></li>
+<li><a href="#3">Pizza</a></li>
+</ul>
+<h2 id='1'>Soup</h2>
+<img src="C:/Users/DELL/Desktop/0.png">
+<p>Hello</p>
+<ol class="b">
+<li>Step 1</li>
+<li>Step 2</li>
+<li>Step 3</li>
+<li>Enjoy!</li>
+</ol>
+<h2 id='2'>Salad </h2>
+<img src="C:/Users/DELL/Desktop/0.png">
+<h2>List of ingredients</h2>
+<ul class="a">
+<li>Ingredient 1</li>
+<li>Ingredient 2</li>
+<li>Ingredient 3</li>
+</ul>
+<p> Hi </p>
+<ol class="b">
+<li>Step 1</li>
+<li>Step 2</li>
+<li>Step 3</li>
+<li>Enjoy!</li>
+</ol>
+<h2 id='3'>Pizza </h2>
+<img src="C:/Users/DELL/Desktop/0.png">
+<p> Bye </p>
+<ol class="b">
+<li>Step 1</li>
+<li>Step 2</li>
+<li>Step 3</li>
+<li>Enjoy!</li>
+</ol>
+</body>
+</html>
